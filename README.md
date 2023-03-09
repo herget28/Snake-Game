@@ -12,6 +12,6 @@
 This Snake Game is created only with html, css and javascript.
 # Getting Started
 - Cloning the Repository
-$ git clone https://github.com/herget28/Snake-Game.git
+- $ git clone https://github.com/herget28/Snake-Game.git
 # Running
 Just open index.html in your browser and play.
